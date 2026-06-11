@@ -59,6 +59,7 @@ pip install numpy pandas geopandas rasterio shapely scipy scikit-image tqdm matp
 -   Computes orientation\
 -   Crops and rotates RGB/MSP\
 -   Builds 8‑band stack:
+<img width="500" height="275" alt="image" src="https://github.com/user-attachments/assets/9d8191f5-2df5-4bf0-bc85-73d4bfc71e18" />
 
 ```{=html}
 <!-- -->
