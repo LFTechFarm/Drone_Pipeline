@@ -59,20 +59,17 @@ pip install numpy pandas geopandas rasterio shapely scipy scikit-image tqdm matp
 -   Computes orientation\
 -   Crops and rotates RGB/MSP\
 -   Builds 8‑band stack:
-
-8-band stack (RGB + multispectral):
-
 RGB:
 1. Red
 2. Green
 3. Blue
 
 Multispectral:
-4. Blue (MSP)
-5. Green (MSP)
-6. Red (MSP)
-7. Red Edge
-8. NIR
+5. Blue (MSP)
+6. Green (MSP)
+7. Red (MSP)
+8. Red Edge
+9. NIR
 
 <img width="500" height="275" alt="image" src="https://github.com/user-attachments/assets/9d8191f5-2df5-4bf0-bc85-73d4bfc71e18" />
 ------------------------------------------------------------------------
